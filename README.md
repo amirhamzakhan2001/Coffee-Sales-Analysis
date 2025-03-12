@@ -1,11 +1,11 @@
 ## ☕ Coffee Shop Sales Analysis
 
-#📀 Overview
+📀 Overview
 
 This project provides a detailed analysis of sales at a coffee shop, helping to understand revenue patterns, peak sales hours, and popular items. The questions are given inside pdf that is to include in dashboard.
 This is an educational project made to only learn about concepts.
 
-#📊 Features
+📊 Features
 
 Total Sales Analysis: Revenue breakdown by month, week, and day.
 
@@ -17,7 +17,12 @@ Seasonal Trends: Impact of seasons on sales.
 
 Dashboard: Interactive visual representation of data.
 
-#🗂 Files Included
+
+Dashboard
+
+
+
+🗂 Files Included
 
 File Name
 
@@ -35,7 +40,7 @@ README.md
 
 This file explaining the project.
 
-#🛠️ Tools Used
+🛠️ Tools Used
 
 Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
 
