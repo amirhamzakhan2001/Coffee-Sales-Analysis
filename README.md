@@ -19,7 +19,7 @@ Dashboard: Interactive visual representation of data.
 
 
 Dashboard
-
+![Coffee Shop Sales Dashboard](Coffee%20Shop%20Sales%20Analysis%20dashboard.jpg)
 
 
 🗂 Files Included
